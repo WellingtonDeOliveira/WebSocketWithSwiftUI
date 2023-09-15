@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daltoniam/Starscream",
+      "state" : {
+        "revision" : "df8d82047f6654d8e4b655d1b1525c64e1059d21",
+        "version" : "4.0.4"
+      }
+    },
+    {
+      "identity" : "webrtc-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ant-media/WebRTC-iOS-SDK",
+      "state" : {
+        "branch" : "master",
+        "revision" : "74f42566d6d1cf1b6eb98ef3e3554a494a129157"
+      }
+    }
+  ],
+  "version" : 2
+}
